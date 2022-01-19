@@ -1,0 +1,15 @@
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.csprojAssemblyReference.cache
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\MainWindow.g.cs
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\App.g.cs
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter_MarkupCompile.cache
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter_MarkupCompile.lref
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\bin\Debug\EnConverter.exe.config
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\bin\Debug\EnConverter.exe
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\bin\Debug\EnConverter.pdb
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\MainWindow.baml
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.g.resources
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.Properties.Resources.resources
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.csproj.GenerateResource.cache
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.csproj.CoreCompileInputs.cache
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.exe
+D:\Hệ điều hành\bài nộp\ĐA mở rộng\EnConverter\EnConverter\obj\Debug\EnConverter.pdb
